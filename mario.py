@@ -4,7 +4,7 @@ import time
 sense = SenseHat()
 
 X = [255, 0, 0]  # Red
-O = [255, 255, 255]  # White
+O = [0, 0, 0]  # Black
 F = [255, 255 ,50] # Face
 
 mario = [

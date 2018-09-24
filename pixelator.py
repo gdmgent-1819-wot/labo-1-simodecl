@@ -29,3 +29,4 @@ while True:
         if i > 63:
             i = 0
     
+sense.clear()
